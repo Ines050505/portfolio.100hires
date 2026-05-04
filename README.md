@@ -1,4 +1,4 @@
-# Portfolio Project — 100Hires Application
+# Portfolio Project 100Hires Application
 
 ## Tools Installed
 - **Cursor IDE** : Downloaded from cursor.com and installed on Windows
